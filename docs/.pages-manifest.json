@@ -1,18 +1,18 @@
 {
   "generator": "luma-tide-pages",
-  "basePath": "/game12",
+  "basePath": "/luma-tide",
   "files": [
     "favicon.svg",
     "index.html",
     "index.txt",
-    "_next/static/04461796-8700-4996-829a-593c0e02ba56/_buildManifest.js",
-    "_next/static/04461796-8700-4996-829a-593c0e02ba56/_ssgManifest.js",
+    "_next/static/7389c5ca-bdd1-4f2c-9e57-0bb291a44c49/_buildManifest.js",
+    "_next/static/7389c5ca-bdd1-4f2c-9e57-0bb291a44c49/_ssgManifest.js",
     "_next/static/chunks/framework-DTZGTDtF.js",
-    "_next/static/chunks/index-CCgNDXdU.js",
-    "_next/static/chunks/layout-segment-context-DZkKLjkF.js",
+    "_next/static/chunks/index-2Qg826lu.js",
+    "_next/static/chunks/layout-segment-context-HuAQsaaV.js",
     "_next/static/chunks/page-CQHTsGqf.js",
     "_next/static/chunks/rolldown-runtime-hePW80VL.js",
-    "_next/static/chunks/vinext-DaReNHte.js",
+    "_next/static/chunks/vinext-CoCG4D83.js",
     "_next/static/css/index.2DlYFDja.css",
     ".nojekyll"
   ]

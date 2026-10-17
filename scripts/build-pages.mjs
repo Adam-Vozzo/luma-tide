@@ -11,9 +11,9 @@ import {
 import { resolve, relative, sep } from 'node:path';
 import { verifyBuild } from './verify-build.mjs';
 
-const basePath = process.argv[2] || '/game12';
+const basePath = process.argv[2] || '/luma-tide';
 if (!/^\/[a-zA-Z0-9_-]+$/.test(basePath))
-  throw new Error('Use a single project path, for example /game12.');
+  throw new Error('Use a single project path, for example /luma-tide.');
 const result = spawnSync(process.execPath, ['scripts/build.mjs'], {
   stdio: 'inherit',
   env: { ...process.env, LUMA_BASE_PATH: basePath },

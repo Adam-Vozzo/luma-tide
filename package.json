@@ -9,7 +9,7 @@
     "dev": "vinext dev",
     "build": "node scripts/build.mjs && node scripts/verify-build.mjs",
     "build:pages": "node scripts/build-pages.mjs",
-    "preview:pages": "node scripts/serve.mjs docs /game12",
+    "preview:pages": "node scripts/serve.mjs docs /luma-tide",
     "start": "node scripts/serve.mjs",
     "lint": "oxlint",
     "format": "oxfmt",
